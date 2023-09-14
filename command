@@ -1,0 +1,1 @@
+virt-install --virt-type kvm --name proxy1 --disk /home/zach/images/proxy1.img --cdrom /home/zach/images/seed.img --os-variant ubuntu16.04 --disk size=10 --memory 1000
